@@ -1,0 +1,17 @@
+.amazon_btn {
+    text-align: center;
+}
+
+.writer_selector {
+    margin-top: 4%;
+    margin-top: 2%;
+}
+
+.hidden {
+    display: none;
+}
+
+.writer_buttons {
+    background: rgba(217, 204, 233, 0.9);
+    color: black;
+}
